@@ -1,3 +1,22 @@
+# Secrets & credentials
+.secrets/
+.secrets
+*secret*
+*credential*
+*apikey*
+*api_key*
+*.pem
+*.key
+gmail_credentials.json
+gmail_token.json
+service-account*.json
+*.p12
+*.pfx
+
+# Python virtualenvs
+.venv/
+venv/
+
 # Logs
 logs
 *.log
