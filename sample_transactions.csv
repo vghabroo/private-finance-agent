@@ -1,0 +1,23 @@
+date,merchant,amount,type,category,currency,account_last4,description
+2026-06-01,ACME SALARY,85000,credit,Income,INR,1234,Monthly salary
+2026-06-02,Apartment Rent,28000,debit,Housing,INR,1234,Monthly rent
+2026-06-04,BigBasket,2100,debit,Food,INR,1234,Groceries
+2026-06-08,Uber,650,debit,Transport,INR,1234,Cab
+2026-06-12,Netflix,649,debit,Subscriptions,INR,1234,Monthly subscription
+2026-06-15,Restaurant,1800,debit,Food,INR,1234,Dinner
+2026-06-20,Amazon,4200,debit,Shopping,INR,1234,Household
+2026-07-01,ACME SALARY,85000,credit,Income,INR,1234,Monthly salary
+2026-07-02,Apartment Rent,28000,debit,Housing,INR,1234,Monthly rent
+2026-07-05,BigBasket,2600,debit,Food,INR,1234,Groceries
+2026-07-09,Uber,900,debit,Transport,INR,1234,Cab
+2026-07-12,Netflix,649,debit,Subscriptions,INR,1234,Monthly subscription
+2026-07-16,Restaurant,3200,debit,Food,INR,1234,Dinner
+2026-07-22,Amazon,8700,debit,Shopping,INR,1234,Electronics
+2026-08-01,ACME SALARY,85000,credit,Income,INR,1234,Monthly salary
+2026-08-02,Apartment Rent,28000,debit,Housing,INR,1234,Monthly rent
+2026-08-04,BigBasket,3100,debit,Food,INR,1234,Groceries
+2026-08-06,Uber,1200,debit,Transport,INR,1234,Cab
+2026-08-10,Netflix,649,debit,Subscriptions,INR,1234,Monthly subscription
+2026-08-13,Restaurant,4500,debit,Food,INR,1234,Dinner
+2026-08-18,Amazon,15000,debit,Shopping,INR,1234,Laptop accessory
+2026-08-20,Flight Booking,18000,debit,Travel,INR,1234,Flight

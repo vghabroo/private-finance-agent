@@ -1,0 +1,15 @@
+fastapi<1,>=0.116
+uvicorn[standard]<1,>=0.35
+pydantic<3,>=2.11
+pydantic-settings<3,>=2.10
+python-multipart<1,>=0.0.20
+httpx<1,>=0.28
+google-auth<3,>=2.32
+google-auth-oauthlib<2,>=1.2
+requests<3,>=2.32
+apscheduler<4,>=3.10
+
+[dev]
+pytest<9,>=8.4
+pytest-asyncio<2,>=1.1
+ruff<1,>=0.12

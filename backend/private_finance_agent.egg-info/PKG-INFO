@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: private-finance-agent
+Version: 0.1.0
+Summary: Local-first agentic personal finance tracker
+Requires-Python: >=3.11
+Requires-Dist: fastapi<1,>=0.116
+Requires-Dist: uvicorn[standard]<1,>=0.35
+Requires-Dist: pydantic<3,>=2.11
+Requires-Dist: pydantic-settings<3,>=2.10
+Requires-Dist: python-multipart<1,>=0.0.20
+Requires-Dist: httpx<1,>=0.28
+Requires-Dist: google-auth<3,>=2.32
+Requires-Dist: google-auth-oauthlib<2,>=1.2
+Requires-Dist: requests<3,>=2.32
+Requires-Dist: apscheduler<4,>=3.10
+Provides-Extra: dev
+Requires-Dist: pytest<9,>=8.4; extra == "dev"
+Requires-Dist: pytest-asyncio<2,>=1.1; extra == "dev"
+Requires-Dist: ruff<1,>=0.12; extra == "dev"
